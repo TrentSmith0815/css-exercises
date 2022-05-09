@@ -1,0 +1,21 @@
+.odds{
+    background-color: rgb(226, 119, 119);
+    font-family: Verdana, DejaVu Sans, sans-serif
+}
+
+#even{
+    color: rgb(43, 43, 237);
+    font-size: 36px;
+}
+
+.odds-third{
+    font-size: 24px;
+    background-color: rgb(226, 119, 119);
+    font-family: Verdana, DejaVu Sans, sans-serif
+}
+
+#even-too{
+    background-color: rgb(122, 225, 122);
+    font-weight: bold;
+    font-size: 24px;
+}

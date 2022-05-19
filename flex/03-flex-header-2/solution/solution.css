@@ -67,3 +67,11 @@ ul {
   align-items: center;
   gap: 16px;
 }
+
+.left {
+  background: rgb(236, 189, 1);
+}
+
+.right {
+  background: rgb(18, 169, 39);
+}
